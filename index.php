@@ -16,7 +16,7 @@
     </script>
 </head>
 <body>
-    <h1>352 猫 ネコ ミコニ 大塚 保護 まどろむ ねこ 三毛猫 ネコちゃん</h1>
+    <h1 style="background: #f7f7f7; border-left: solid 4px #ccc; padding-left: 0.5em;">352 猫 ネコ ミコニ 大塚 保護 まどろむ ねこ 三毛猫 ネコちゃん</h1>
     <p><a href="https://www.youtube.com/watch?v=QEOJQB7Cj6s">ミコニ</a>352 猫 ネコ 大塚 保護 まどろむ ねこ 三毛猫 ネコちゃん</p>
     <p>
         保護猫カフェ大塚シェルターで出会った、かわいい三毛猫ちゃんを保護して１年になります。<br>
