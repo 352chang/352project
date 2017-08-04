@@ -1,6 +1,6 @@
 <?php
 
-$protocol = empty($_SERVER["HTTPS"]) ?"http://" :"https://";
+$protocol = empty($_SERVER["HTTPS"]) ? "http://" :"https://";
 
 define("HOME_DIR", $protocol. $_SERVER['SERVER_NAME']);
 define("MODEL_DIR",      HOME_DIR. '/model');
