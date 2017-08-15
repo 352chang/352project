@@ -16,8 +16,8 @@ require_once(dirname(__FILE__) . '/controller/constantList.php');
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-89130219-1', 'auto');
-        ga('set', 'dimension1', 'sessionCheck');
+
+        ga('create', 'UA-89130219-4', 'auto');
         ga('send', 'pageview');
     </script>
 </head>
