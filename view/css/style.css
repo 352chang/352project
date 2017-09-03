@@ -6,4 +6,30 @@
     padding-left: 0.5em;
 }
 
+
 /* ===== ↑↑↑ main contents ↑↑↑ ===== */
+
+
+
+/* ===== ↓↓↓ test_modal_css ↓↓↓ ===== */
+.img_popup {
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  left: 100px;
+  top: 120px;
+  z-index: 999;
+  margin-top: -40px;
+}
+
+.img_popup:target {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.img_popup a.close-button {
+  display: block;
+  overflow: hidden;
+}
+
+/* ===== ↑↑↑ test_modal_css ↑↑↑ ===== */
